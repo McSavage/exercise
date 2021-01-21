@@ -4,4 +4,4 @@ This is the second line!
 
 And the third.
 
-Finaly, a fourth line!!
+Finaly, a fourth line.
